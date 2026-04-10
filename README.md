@@ -1,20 +1,24 @@
 # websote-
 
 ## Overview
-This repository is maintained under a shared structure inspired by `distributed-robot-system` for consistency across projects.
+Notes/documentation project containing reference material and artifacts.
 
-## Project Structure
-- docs/: documentation and design notes
-- scripts/: utility scripts
-- tests/: test-related files
+## Current Contents
+- `CONTRIBUTING.md`
+- `README.md`
+- `QUICKSTART.md`
+- `LICENSE`
+
+## Top-Level Structure
+- `docs/`
+- `scripts/`
+- `tests/`
 
 ## Getting Started
-1. Clone the repository.
-2. Review available files and docs.
-3. Run project-specific setup commands.
+1. Open the listed notes/documents.
 
 ## Contributing
-See CONTRIBUTING.md for contribution workflow and quality expectations.
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
-MIT (see LICENSE).
+See [LICENSE](LICENSE).
